@@ -1,0 +1,2 @@
+IfString(MonthDiff(Now(),[DateOfHire])>6,'Yes','No')
+Lookup()
